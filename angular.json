@@ -13,6 +13,9 @@
         "@schematics/angular:component": {
           "skipTests": true,
           "inlineStyle": true
+        },
+        "@schematics/angular:pipe": {
+          "skipTests": true
         }
       },
       "root": "",
